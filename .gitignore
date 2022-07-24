@@ -1,12 +1,9 @@
 .idea/
 .vscode/
-
+*.DS_Store
 __pycache__/
-
 source/content/media/
 source/content/static/
-
 env/
 tmp/
-
 db.sqlite3
